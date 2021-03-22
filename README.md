@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1OjMhOasga9MTCvZ_5gnGW81TMZ7xflwy?usp=sha
 Go to terminal :
 - Git clone - https://github.com/xuannianz/EfficientDet
 - Install the required libraries
-- run the vehichlecount.py in terminal like : python vehiclecount.py --source filepath --x1 x1 --y1 y1 --x2 x2 --y2 y2
+- run the vehichlecount.py in terminal like : python vehicle_count.py --source filepath --x1 x1 --y1 y1 --x2 x2 --y2 y2
 
 ## Outputs
 
