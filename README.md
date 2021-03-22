@@ -32,4 +32,4 @@ Go to terminal :
 <img src="https://github.com/humblecoder612/vehicle_count/blob/main/Screenshot_20210322_115923.png" width="800" />
 
 ##Future Work
-I have optimize it a lot , this is the prototype version only.
+I have  to optimize it a lot , this is the prototype version only.
