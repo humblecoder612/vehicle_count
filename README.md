@@ -13,7 +13,7 @@ I was trying to use Yolo V5 but the output size was turning out big , so I decid
 
 
 ## Technique
-> The bounding box of the vehicle which is detected , it's centroid is used for the vehicle count if centroid passes throught the line , the count will increase.
+> The bounding box of the vehicle which is detected , it's centroid is used for the vehicle count if centroid passes through the line , the count will increase.
 
 Here is the output videos :
 
@@ -31,3 +31,5 @@ Go to terminal :
 
 <img src="https://github.com/humblecoder612/vehicle_count/blob/main/Screenshot_20210322_115923.png" width="800" />
 
+##Future Work
+I have optimize it a lot , this is the prototype version only.
