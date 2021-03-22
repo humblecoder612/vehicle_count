@@ -26,3 +26,5 @@ Go to terminal :
 
 ## Outputs
 
+<img src="https://github.com/humblecoder612/vehicle_count/blob/main/Screenshot_20210322_115923.png" width="800" />
+
